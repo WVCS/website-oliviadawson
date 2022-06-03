@@ -1,3 +1,47 @@
 body {
-
+  background-image: url(https://cdn.pixabay.com/photo/2020/06/25/11/30/pastel-5339368_1280.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 200%;
 }
+h2{
+  color: white;
+  font-size: 300%;
+  font-family: "Lucida Handwriting";
+   text-decoration-line: overline;
+  text-decoration-color: white;
+  text-align: center;
+}
+img{
+  width: 35%;
+ height: 900px;
+  border-radius: 90%;
+    border: solid;
+  border-color: white;
+  
+}
+p{
+  font-size: 325%;
+    color: white;
+  text-decoration: underline;
+}
+ul{
+  list-style-type: none;
+  width: 100%;
+  text-align: center;
+  
+}
+li{
+  Float: left;
+}
+li a:hover{
+  background-color: white;
+}
+li a {
+  padding: 30px;
+  font-size: 140%;
+  color: white;
+  border: solid;
+  text-align: center;
+} 
+
